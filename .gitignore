@@ -1,0 +1,9 @@
+src/main/java/com/vgs/greyhound/h2/
+src/main/java/com/vgs/greyhound/derby/
+*.form
+\.db
+*.classpath
+*.project
+*.setting
+*.log
+target/
